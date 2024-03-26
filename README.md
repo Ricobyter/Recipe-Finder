@@ -1,4 +1,4 @@
-# YourRecipe
+# YourRecipe- A recipe just for you
 
 YourRecipe is a recipe finder web application that allows users to search for recipes using the MealDB API. It is built using ReactJS for the frontend, TailwindCSS for styling, and react-redux toolkit for state management. MongoDB is used as the database to store user preferences and saved recipes.
 
